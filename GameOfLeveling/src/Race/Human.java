@@ -1,0 +1,41 @@
+package Race;
+
+import Race.IRace;
+
+public class Human implements IRace{
+
+    @Override
+    public double bonusStrength() {
+        return 1.05;
+    }
+
+    @Override
+    public double bonusDexterity() {
+        return 1.05;
+    }
+
+    @Override
+    public double bonusConstitution() {
+        return 1.05;
+    }
+
+    @Override
+    public double bonusIntelligence() {
+        return 1.05;
+    }
+
+    @Override
+    public double bonusWisdom() {
+        return 1.05;
+    }
+
+    @Override
+    public double bonusCharisma() {
+        return 1.05;
+    }
+
+    @Override
+    public String getRace() {
+        return "Human";
+    }
+}
