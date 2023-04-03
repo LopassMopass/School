@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Cake cake = new NutDecor(new ChocolateDecor(new SimpleCake()));
+        System.out.println(cake.cake());
     }
 }

@@ -1,22 +1,31 @@
 package Class;
 
-import Race.IRace;
+import Race.*;
 
 import java.util.Scanner;
 
 public abstract class Body {
     protected String name;
-    protected int level;
-    protected int exp;
-    protected int armorClass;
-    protected int strength;
-    protected int dexterity;
-    protected int constitution;
-    protected int intelligence;
-    protected int wisdom;
-    protected int charisma;
-    protected IRace race;
+    public int level;
+    public int exp;
+    public int armorClass;
+    public int strength;
+    public int dexterity;
+    public int constitution;
+    public int intelligence;
+    public int wisdom;
+    public int charisma;
+    public IRace race;
 
+    public String getName(){
+        return name;
+    }
+    public int getLevel(){
+        return level;
+    }
+    public int getExp(){
+        return exp;
+    }
     public int getStrength(){
         return (int)(strength*race.bonusStrength());
     }
@@ -38,10 +47,13 @@ public abstract class Body {
     public int getArmorClass(){
         return (int)(armorClass*race.bonusDexterity());
     }
-
     public void setRace(IRace race){
         this.race = race;
     }
+    public IRace getRace(IRace race){
+        return race;
+    }
+
 
     public Body(String name, int level, int exp, int armorClass, int strength,
                 int dexterity, int constitution, int intelligence, int wisdom, int charisma) {
@@ -71,8 +83,12 @@ public abstract class Body {
         this.charisma = charisma;
     }
 
-    public static  Body createClass(String name, int level, int exp, int armorClass, int strength, int dexterity,
-                                   int constitution, int intelligence, int wisdom, int charisma, int type){
+    public static Body createClass(String name, int level, int exp, int armorClass, int strength, int dexterity,
+                                   int constitution, int intelligence, int wisdom, int charisma){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("-------------- Choose your class -------------- \n 1. Barbarian \n 2. Bard \n 3. Cleric \n 4. Druid \n 5. Fighter \n 6. Monk " +
+                           "\n 7. Paladin \n 8. Ranger \n 9. Rogue \n 10. Sorcerer \n 11. Warlock \n 12. Wizard \n Use the numbers of the classes to select them 1,2,3...: \n");
+        int type = sc.nextInt();
         switch (type){
             case 1: return new Barbarian(name, 1, 0, 5,strength, dexterity, constitution, intelligence, wisdom, charisma);
             case 2: return new Bard(name, 1, 0, 1,strength, dexterity, constitution, intelligence, wisdom, charisma);
@@ -90,16 +106,29 @@ public abstract class Body {
         }
     }
 
-    public abstract double getAttack();
-    public abstract double getProperties(Body defender);
-    public int getHealth(){
-        int HP = (int)getConstitution();
-        return HP * level * 10;
+    public static IRace createRace(int bonusStrength, int bonusDexterity, int bonusConstitution, int bonusIntelligence, int bonusWisdom, int bonusCharisma){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("-------------- Choose your race -------------- \n 1. Dragonborn \n 2. Dwarf \n 3. Elf \n 4. Gnome \n 5. Half-elf \n 6. Half-ling " +
+                           "\n 7. Half-Orc \n 8. Human \n 9. Tie-fling \n Use the numbers of the races to select them 1,2,3...: \n");
+        int type = sc.nextInt();
+        switch (type){
+            case 1: return new Dragonborn();
+            case 2: return new Dwarf();
+            case 3: return new Elf();
+            case 4: return new Gnome();
+            case 5: return new HalfElf();
+            case 6: return new Halfling();
+            case 7: return new HalfOrc();
+            case 8: return new Human();
+            case 9: return new Tiefling();
+            default: throw new RuntimeException("Invalid type!");
+        }
     }
     public int distributePoints(){
         Scanner sc = new Scanner(System.in);
-        System.out.println("-------------- Distribute you points -------------- \n");
-        System.out.println("You have got a 2 points to spend (can only choice one attribute), choose wisely: \n");
+        System.out.println("-------------- Distribute you points -------------- \n 1. Strength +2 \n 2. Dexterity +2 \n 3. Constitution +2 " +
+                           "\n 4. Intelligence +2 \n 5. Wisdom +2 \n 6. Charisma +2 \n");
+        System.out.println("You have got a 2 points to spend (can only choice one attribute), choose wisely (use the numbers of the skills to select them 1,2,3...): \n");
         int type = sc.nextInt();
         switch (type){
             case 1: return getStrength()+2;
@@ -111,6 +140,12 @@ public abstract class Body {
             default: throw new RuntimeException("Invalid type!");
         }
     }
+    public abstract double getAttack();
+    public abstract double getProperties(Body defender);
+    public int getHealth(){
+        int HP = (int)getConstitution();
+        return HP * level * 10;
+    }
     public boolean victory(Body enemy){
         if (enemy.getHealth() <= 0){
             return true;
@@ -119,12 +154,11 @@ public abstract class Body {
     public boolean isAlive(){
         return (getHealth() > 0);
     }
-    public int getLevelUp(){
+    public void getLevelUp(){
         while(exp >= 100*level){
             exp -= 100*level;
             level++;
         }
-        return level;//Nevim co presne chci vratit, ZEPTAT SE!
     }
     public int getArmorClass(Body enemy) {
         return (int)getArmorClass() + (int)enemy.getProperties(this);

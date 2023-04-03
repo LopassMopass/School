@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" filepath="$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Morzeovka/Morzeovka.iml" filepath="$PROJECT_DIR$/Morzeovka/Morzeovka.iml" />
       <module fileurl="file://$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" filepath="$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" filepath="$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" filepath="$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" />
       <module fileurl="file://$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" filepath="$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
@@ -24,10 +25,12 @@
       <module fileurl="file://$PROJECT_DIR$/Test1110/Test1110.iml" filepath="$PROJECT_DIR$/Test1110/Test1110.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" filepath="$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseTest/UseTest.iml" filepath="$PROJECT_DIR$/UseTest/UseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vanoce/Vanoce.iml" filepath="$PROJECT_DIR$/Vanoce/Vanoce.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" filepath="$PROJECT_DIR$/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" filepath="$PROJECT_DIR$/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zlomek/Zlomek.iml" filepath="$PROJECT_DIR$/Zlomek/Zlomek.iml" />
     </modules>
   </component>
 </project>
