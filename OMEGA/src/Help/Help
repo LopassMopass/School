@@ -1,0 +1,14 @@
+Map Menu:
+       If you click or press ALT + M, Map menu will open and there you can find Import Map.
+
+Import Map:
+       If you click or press I, a Map will be imported. Please be sure you had imported a good quality map or else
+       there will be some terrible resolution.
+
+Token Menu:
+       If you click or press ATL + T, a Token menu will open and there you can find Import Token.
+
+Import Tokens:
+       If you click or press I, a Token will be imported. Unfortunately I was unable to make it visible at the moment
+       of the import, so bear whit me and just click on window mode. Then you will be able to see your token. I will
+       try to fix this, but at the moment it is such a mess. I will need to rewrite it all.

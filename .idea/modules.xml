@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AILearning/AILearning.iml" filepath="$PROJECT_DIR$/AILearning/AILearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Analiza/Analiza.iml" filepath="$PROJECT_DIR$/Analiza/Analiza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Analiza1/Analiza1.iml" filepath="$PROJECT_DIR$/Analiza1/Analiza1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConsoleAplication/ConsoleAplication.iml" filepath="$PROJECT_DIR$/ConsoleAplication/ConsoleAplication.iml" />
@@ -10,11 +11,14 @@
       <module fileurl="file://$PROJECT_DIR$/Dort/Dort.iml" filepath="$PROJECT_DIR$/Dort/Dort.iml" />
       <module fileurl="file://$PROJECT_DIR$/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" filepath="$PROJECT_DIR$/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameOfLeveling/GameOfLeveling.iml" filepath="$PROJECT_DIR$/GameOfLeveling/GameOfLeveling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KninoZvirat/KninoZvirat.iml" filepath="$PROJECT_DIR$/KninoZvirat/KninoZvirat.iml" />
       <module fileurl="file://$PROJECT_DIR$/KolekceReditel/KolekceReditel.iml" filepath="$PROJECT_DIR$/KolekceReditel/KolekceReditel.iml" />
       <module fileurl="file://$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" filepath="$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Morzeovka/Morzeovka.iml" filepath="$PROJECT_DIR$/Morzeovka/Morzeovka.iml" />
       <module fileurl="file://$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" filepath="$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OMEGA/OMEGA.iml" filepath="$PROJECT_DIR$/OMEGA/OMEGA.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" filepath="$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Player/Player.iml" filepath="$PROJECT_DIR$/Player/Player.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" filepath="$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" />
       <module fileurl="file://$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" filepath="$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
@@ -22,8 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/School.iml" filepath="$PROJECT_DIR$/School.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringsAndRegexy/StringsAndRegexy.iml" filepath="$PROJECT_DIR$/StringsAndRegexy/StringsAndRegexy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1110/Test1110.iml" filepath="$PROJECT_DIR$/Test1110/Test1110.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" filepath="$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" />
       <module fileurl="file://$PROJECT_DIR$/UseTest/UseTest.iml" filepath="$PROJECT_DIR$/UseTest/UseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
