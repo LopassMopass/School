@@ -2,41 +2,39 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AILearning/AILearning.iml" filepath="$PROJECT_DIR$/AILearning/AILearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Analiza/Analiza.iml" filepath="$PROJECT_DIR$/Analiza/Analiza.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Analiza1/Analiza1.iml" filepath="$PROJECT_DIR$/Analiza1/Analiza1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ConsoleAplication/ConsoleAplication.iml" filepath="$PROJECT_DIR$/ConsoleAplication/ConsoleAplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DU_1/DU_1.iml" filepath="$PROJECT_DIR$/DU_1/DU_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DU_Reseni/DU_Reseni.iml" filepath="$PROJECT_DIR$/DU_Reseni/DU_Reseni.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Dort/Dort.iml" filepath="$PROJECT_DIR$/Dort/Dort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" filepath="$PROJECT_DIR$/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GameOfLeveling/GameOfLeveling.iml" filepath="$PROJECT_DIR$/GameOfLeveling/GameOfLeveling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KninoZvirat/KninoZvirat.iml" filepath="$PROJECT_DIR$/KninoZvirat/KninoZvirat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KolekceReditel/KolekceReditel.iml" filepath="$PROJECT_DIR$/KolekceReditel/KolekceReditel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" filepath="$PROJECT_DIR$/LexikalniAnaliza/LexikalniAnaliza.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Morzeovka/Morzeovka.iml" filepath="$PROJECT_DIR$/Morzeovka/Morzeovka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" filepath="$PROJECT_DIR$/MorzeuvStrom/MorzeuvStrom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OMEGA/OMEGA.iml" filepath="$PROJECT_DIR$/OMEGA/OMEGA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" filepath="$PROJECT_DIR$/OverovaniSlova/OverovaniSlova.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Player/Player.iml" filepath="$PROJECT_DIR$/Player/Player.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" filepath="$PROJECT_DIR$/Prihlaseni/Prihlaseni.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" filepath="$PROJECT_DIR$/PripravaNaTest/PripravaNaTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RitkaMatic/RitkaMatic.iml" filepath="$PROJECT_DIR$/RitkaMatic/RitkaMatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/AILearning/AILearning.iml" filepath="$PROJECT_DIR$/C2b/AILearning/AILearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Analiza/Analiza.iml" filepath="$PROJECT_DIR$/C2b/Analiza/Analiza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Analiza1/Analiza1.iml" filepath="$PROJECT_DIR$/C2b/Analiza1/Analiza1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/ConsoleAplication/ConsoleAplication.iml" filepath="$PROJECT_DIR$/C2b/ConsoleAplication/ConsoleAplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/DU_1/DU_1.iml" filepath="$PROJECT_DIR$/C2b/DU_1/DU_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/DU_Reseni/DU_Reseni.iml" filepath="$PROJECT_DIR$/C2b/DU_Reseni/DU_Reseni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Dort/Dort.iml" filepath="$PROJECT_DIR$/C2b/Dort/Dort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" filepath="$PROJECT_DIR$/C2b/DvoujrozmwrnePole/DvoujrozmwrnePole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/GameOfLeveling/GameOfLeveling.iml" filepath="$PROJECT_DIR$/C2b/GameOfLeveling/GameOfLeveling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/KninoZvirat/KninoZvirat.iml" filepath="$PROJECT_DIR$/C2b/KninoZvirat/KninoZvirat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/KolekceReditel/KolekceReditel.iml" filepath="$PROJECT_DIR$/C2b/KolekceReditel/KolekceReditel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/LexikalniAnaliza/LexikalniAnaliza.iml" filepath="$PROJECT_DIR$/C2b/LexikalniAnaliza/LexikalniAnaliza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/OMEGA/OMEGA.iml" filepath="$PROJECT_DIR$/C2b/OMEGA/OMEGA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/OverovaniSlova/OverovaniSlova.iml" filepath="$PROJECT_DIR$/C2b/OverovaniSlova/OverovaniSlova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Player/Player.iml" filepath="$PROJECT_DIR$/C2b/Player/Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Prihlaseni/Prihlaseni.iml" filepath="$PROJECT_DIR$/C2b/Prihlaseni/Prihlaseni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/PripravaNaTest/PripravaNaTest.iml" filepath="$PROJECT_DIR$/C2b/PripravaNaTest/PripravaNaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/C2b/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/RitkaMatic/RitkaMatic.iml" filepath="$PROJECT_DIR$/C2b/RitkaMatic/RitkaMatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/School.iml" filepath="$PROJECT_DIR$/School.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringsAndRegexy/StringsAndRegexy.iml" filepath="$PROJECT_DIR$/StringsAndRegexy/StringsAndRegexy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test1110/Test1110.iml" filepath="$PROJECT_DIR$/Test1110/Test1110.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" filepath="$PROJECT_DIR$/Trojuhelnik/Trojuhelnik.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UseTest/UseTest.iml" filepath="$PROJECT_DIR$/UseTest/UseTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Vanoce/Vanoce.iml" filepath="$PROJECT_DIR$/Vanoce/Vanoce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" filepath="$PROJECT_DIR$/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" filepath="$PROJECT_DIR$/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Zlomek/Zlomek.iml" filepath="$PROJECT_DIR$/Zlomek/Zlomek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Sort/Sort.iml" filepath="$PROJECT_DIR$/C2b/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/StringsAndRegexy/StringsAndRegexy.iml" filepath="$PROJECT_DIR$/C2b/StringsAndRegexy/StringsAndRegexy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Test/Test.iml" filepath="$PROJECT_DIR$/C2b/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Test1110/Test1110.iml" filepath="$PROJECT_DIR$/C2b/Test1110/Test1110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Test2/Test2.iml" filepath="$PROJECT_DIR$/C2b/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Threads/Threads.iml" filepath="$PROJECT_DIR$/C2b/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Trojuhelnik/Trojuhelnik.iml" filepath="$PROJECT_DIR$/C2b/Trojuhelnik/Trojuhelnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/UseTest/UseTest.iml" filepath="$PROJECT_DIR$/C2b/UseTest/UseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/C2b/UserInterface/UserInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Vanoce/Vanoce.iml" filepath="$PROJECT_DIR$/C2b/Vanoce/Vanoce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" filepath="$PROJECT_DIR$/C2b/ZamestnanecSpojovySeznam/ZamestnanecSpojovySeznam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" filepath="$PROJECT_DIR$/C2b/ZapisovaniDoSouboru/ZapisovaniDoSouboru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C2b/Zlomek/Zlomek.iml" filepath="$PROJECT_DIR$/C2b/Zlomek/Zlomek.iml" />
     </modules>
   </component>
 </project>
